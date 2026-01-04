@@ -6,7 +6,7 @@
 
 A [Prometheus](https://prometheus.io/) exporter for monitoring Compal CH7465LG cable modems. These are sold under the name "Connect Box" by Unitymedia in Germany, Ziggo in the Netherlands and UPC in Switzerland/Austria/Poland. Or as "Virgin Media Super Hub 3" by Virgin Media.
 
-Makes thorough use of [compal_CH7465LG_py](https://github.com/ties/compal_CH7465LG_py) by [@ties](https://github.com/ties/) (thanks!).
+Makes thorough use of [compal_CH7465LG_py]() by [@ties]() (thanks!).
 
 ## Installation
 On your Prometheus server host:
@@ -97,7 +97,7 @@ One scrape takes roughly 6 seconds.
 
 ## Grafana Dashboard
 
-The above metrics can be monitored nicely in [Grafana](https://github.com/grafana/grafana) using [this dashboard](https://grafana.com/grafana/dashboards/12078/):
+The above metrics can be monitored nicely in [Grafana]() using [this dashboard]():
 
 ![Grafana Dashboard](resources/docs/grafana_dashboard_screenshot.png)
 
